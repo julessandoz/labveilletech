@@ -37,7 +37,7 @@ In conclusion, becoming a better developer is a continuous journey that requires
 
 ## References:
 
-- "15 Tips to Improve as a Javascript Developer"
-- "Why Some Developers Will Never Improve"
-- "Three “Clean Code” tips that will make your dev team 50% more efficient"
-- "4 Habits That Made Me a Better Developer"
+- [15 Tips to Improve as a Javascript Developer](https://blog.devgenius.io/15-tips-to-improve-as-a-javascript-developer-e364597edc6f)
+- [Why Some Developers Will Never Improve](https://levelup.gitconnected.com/why-some-developers-will-never-improve-d7f095df9604)
+- [Three “Clean Code” tips that will make your dev team 50% more efficient](https://idoshveki.medium.com/three-clean-code-tips-that-will-make-your-dev-team-50-more-efficient-c4a3a0928914)
+- [4 Habits That Made Me a Better Developer](https://gvdgets.com/4-habits-that-made-me-a-better-developer-39b647903534)
