@@ -6,7 +6,6 @@ aliases = ["about-me", "contact"]
 author = "Jules Sandoz"
 +++
 
-## About me
 Hi! I'm Jules, a third-year Media Engineering student at [HEIG-VD](https://heig-vd.ch/en), Switzerland, aspiring to enter the field of frontend development. This is my blog, here I'll be posting about the domains I'm interested in, such as frontend development, web development, project management and communication. I'll also be posting about my personal projects, and my journey as a graduate moving across the world and entering the workforce in a new country.
 This is not my main website. If you want to discover the projects I've worked on, you can visit [my portfolio website](https://jules-sandoz.com).
 
