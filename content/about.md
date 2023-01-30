@@ -19,7 +19,7 @@ If you want to contact me, you can do so by sending me [an email](mailto:contact
 In the context of a class about how to lead a successful technological watch, we were asked to work on our Ikigai (a Japanese concept that means "a reason for being") and to find the domain we want to work towards.
 
 ### My Ikigai
-![ikigai](/my-ikigai.png)
+![ikigai](/images/my-ikigai.png)
 
 ### My Domain
 Management of teams in frontend/fullstack development: Mostly centered around code best practices, testing, agile management.
