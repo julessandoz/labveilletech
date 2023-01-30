@@ -36,3 +36,6 @@ Here's a comparison table of the two frameworks:
 * [I built the same app 10 times // Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
 * [Infographic: React vs Angular vs Vue.js](https://medium.com/hackernoon/infographic-react-vs-angular-vs-vue-js-3fdb602895e1)
 * [Vue vs Angular, which has the steeper learning curve?](https://medium.com/@donotapply/vue-vs-angular-which-has-the-steeper-learning-curve-b75df9ab9a0a)
+
+### About the sources
+This article is really about being able to compare frameworks and figuring out which is best for what project. I decided to use different formats of sources for this article. I really like watching Fireship's videos and thought of this one when I was thinking about what to write about. Despite the look of the blog (thanks Reader Mode), I also like the infographic from Hackernoon because it's a good visual representation of the differences between the frameworks. Same for DoNotApply's article, both Medium articles are pretty similar but I thought it was good to see the point of view of different authors.

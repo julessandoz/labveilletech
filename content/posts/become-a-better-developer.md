@@ -41,3 +41,6 @@ In conclusion, becoming a better developer is a continuous journey that requires
 - [Why Some Developers Will Never Improve](https://levelup.gitconnected.com/why-some-developers-will-never-improve-d7f095df9604)
 - [Three “Clean Code” tips that will make your dev team 50% more efficient](https://idoshveki.medium.com/three-clean-code-tips-that-will-make-your-dev-team-50-more-efficient-c4a3a0928914)
 - [4 Habits That Made Me a Better Developer](https://gvdgets.com/4-habits-that-made-me-a-better-developer-39b647903534)
+
+### About the sources:
+The sources I chose for this article are all articles that I've found to be particularly useful in my own journey to becoming a better developer. They provide great tips and tricks that I've found to be particularly helpful in improving my skills and becoming a more efficient and effective developer. While they will be most useful to developers, I think that it will be an important step of my journey to becoming a Tech Lead or Engineering Manager. 

@@ -42,3 +42,6 @@ In conclusion, becoming a manager is a big step in one's career, and it's not al
 ## References
 * [Individual contributor to manager - Transitioning into a bartender](https://www.frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/)
 * [Good manager, bad manager - tasty drink, bland drink](https://www.frontendhappyhour.com/episodes/good-manager-bad-manager-tasty-drink-bland-drink/)
+
+### About the sources
+The Front End Happy Hour is a podcast centered around software engineering featuring a panel of software engineers and software engineering managers from Netflix, Twitch and Atlassian. Each episode covers a different subjects and usually welcomes professionals from different companies who bring their own perspective on the topic. In the two episodes mentioned above, the hosts discuss the transition from individual contributor to manager and ways to be a good manager. I believe that the expertise of the people taking part in these two episodes is very valuable to anyone wanting to understand better what being a manager is about and how to be a good manager.

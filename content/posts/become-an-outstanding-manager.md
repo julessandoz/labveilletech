@@ -47,3 +47,6 @@ In conclusion, being a manager in development and front-end engineering requires
 * [3 Common Pitfalls of New Engineering Managers by Matt Nigh](https://medium.com/leading-literally/3-common-pitfalls-of-new-engineering-managers-and-how-to-get-over-them-d6db684ce61f)
 * [How To Lead a Tech Team by Kevin Vogel](https://javascript.plainenglish.io/5-tips-on-how-to-lead-a-tech-team-dffa080c0183)
 * [How to Review the Code Like a Pro by Yaroslav Dobroskok](https://medium.com/@yar.dobroskok/how-to-review-the-code-like-a-pro-6b656101eb89)
+
+### About the sources
+I decided to write this article using these sources because the come from a variety of different perspectives and are written by people with different backgrounds and experiences. They go over some of the most important aspects of management in development and front-end engineering and provide a comprehensive overview of the topic.
